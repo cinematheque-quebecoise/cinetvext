@@ -1,0 +1,13 @@
+ProvinceID,Terme,Verifie,PaysId,LienWikidata
+1,Alberta,1,51,http://www.wikidata.org/entity/Q1951
+2,Colombie-Britannique,1,52,http://www.wikidata.org/entity/Q1974
+3,Île-du-Prince-Édouard,1,53,http://www.wikidata.org/entity/Q1979
+4,Manitoba,1,54,http://www.wikidata.org/entity/Q1948
+5,Nouveau-Brunswick,1,55,http://www.wikidata.org/entity/Q1965
+6,Nouvelle-Écosse,1,56,http://www.wikidata.org/entity/Q1952
+7,Ontario,1,57,http://www.wikidata.org/entity/Q1904
+8,Québec,1,216,http://www.wikidata.org/entity/Q176
+9,Saskatchewan,1,58,http://www.wikidata.org/entity/Q1989
+10,Terre-Neuve,1,59,http://www.wikidata.org/entity/Q2003
+11,Territoire du Nord-Ouest,1,60,http://www.wikidata.org/entity/Q2007
+12,Yukon,1,61,http://www.wikidata.org/entity/Q2009

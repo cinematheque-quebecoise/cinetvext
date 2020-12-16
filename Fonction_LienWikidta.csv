@@ -1,0 +1,48 @@
+FonctionID,Terme,Verifie,LienWikidata
+2,Animation,1,http://www.wikidata.org/entity/Q11425
+3,Assistant réalisation,1,
+4,Chef électricien,1,
+5,Chef machiniste,1,http://www.wikidata.org/entity/Q1547003
+6,Coiffure,1,http://www.wikidata.org/entity/Q327496
+7,Conception sonore,1,http://www.wikidata.org/entity/Q1937950 ou http://www.wikidata.org/wiki/Q128124
+8,Costumes,1,http://www.wikidata.org/entity/Q17351863 ou http://www.wikidata.org/entity/Q1323191
+9,Décors,1,http://www.wikidata.org/entity/Q6409989
+10,Direction artistique,1,http://www.wikidata.org/entity/Q706364
+11,Direction de production,1,http://www.wikidata.org/entity/Q7247822
+12,Effets spéciaux,1,http://www.wikidata.org/entity/Q381243
+13,Générique additionnel,1,
+14,Images,1
+15,Interprétation,1,http://www.wikidata.org/entity/Q33999
+16,Interprète musique,1,http://www.wikidata.org/entity/Q639669
+17,Maquillage,1,http://www.wikidata.org/entity/Q935666
+18,Mixage,1,http://www.wikidata.org/entity/Q339431
+19,Montage images,1,http://www.wikidata.org/entity/Q828107 ou http://www.wikidata.org/entity/Q239298 ou http://www.wikidata.org/entity/Q7042855
+20,Montage sonore,1,http://www.wikidata.org/entity/Q3180462 ou http://www.wikidata.org/wiki/Q128124
+21,Musique,1,
+22,Narration,1,http://www.wikidata.org/entity/Q33005760
+23,Narrateur,1,http://www.wikidata.org/entity/Q755070
+24,Participant,1,
+25,Personnage,1,
+26,Photographe de plateau,1,http://www.wikidata.org/entity/Q20743434
+27,Prise de son,1,http://www.wikidata.org/entity/Q5057302 ou http://www.wikidata.org/wiki/Q128124
+28,Producteur,1,http://www.wikidata.org/entity/Q3282637
+29,Producteur délégué,1,http://www.wikidata.org/entity/Q1053574
+30,Régie,1,http://www.wikidata.org/entity/Q2137554
+31,Scénario,1,http://www.wikidata.org/entity/Q28389 ou http://www.wikidata.org/entity/Q103076
+32,Scripte,1,http://www.wikidata.org/entity/Q103076
+33,Source originale,1,
+34,Société de production,1,http://www.wikidata.org/entity/Q11396960
+35,Animateur d'émission,1,http://www.wikidata.org/entity/Q947873
+36,Journaliste,1,http://www.wikidata.org/entity/Q1930187
+37,Financement,0,http://www.wikidata.org/entity/Q5509032
+38,Recherche,0,
+39,Société de distribution,0,http://www.wikidata.org/entity/Q368290
+40,Société d'exportation,0,
+41,Laboratoire,0,
+42,Maison de services,0,
+43,Télédiffuseur,0,http://www.wikidata.org/entity/Q15078788
+44,Conception,0,
+45,Création,0,
+47,Chroniqueur,1,http://www.wikidata.org/entity/Q1086863
+48,Producteur exécutif,1,http://www.wikidata.org/entity/Q1826375
+49,Diffuseur Web,1,
